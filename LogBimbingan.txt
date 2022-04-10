@@ -1,0 +1,17 @@
+Log Bimbingan v.1
+
+Catatan bimbingan 1:
+harus jelas pada latar belakang dan definisi masalah: 
+1) what is the problem 
+2) why the problem is important --
+3) why the problem is not solved yet
+didukung dengan data artikel/jurnal/koran
+4) usulan untuk menyelesaikan masalah tsb
+5) bagaimana mengukur keberhasilan metoda yang diusulkan
+6) state of the art: related works.. 
+7) buat perkiraan kesimpulan  terbukti bahwa 1).. 2).. 3).. yang menjawab masalah yang kita rumuskan
+
+Dalam log repo TA  di github ada at least dua dokumen: 
+1) logBimbingan 
+2) TugasAkhirnya
+semua untuk daftar pustakanya harus memakai zotero atau mendeley atau end note
