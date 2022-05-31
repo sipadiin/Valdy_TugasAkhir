@@ -24,3 +24,9 @@ Log Bimbingan v.2 4/12/2022
 - Menjelaskan metodologi yang digunakan
 - Mempelajari sitasi dengan mendeley
 - Menambahkan penjelasan UML, e-commerce, dan web promotion
+
+Log Bimbingan v.3 5/31/2022
+-Requirementnya pakai use case setelah ke perusahaan
+-Lalu menentukan fitur setelah skenario dilakukan
+-Tambahkan beberapa materi di bab 2
+-Menyicil programming
